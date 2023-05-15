@@ -8,6 +8,7 @@
 # testing
 /coverage
 .git/info/exclude
+.gitignore 
 # production
 /build
 
