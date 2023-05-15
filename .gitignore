@@ -7,7 +7,7 @@
 /gitignore
 # testing
 /coverage
-
+.git/info/exclude
 # production
 /build
 
