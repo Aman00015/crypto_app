@@ -17,10 +17,10 @@ const Footer = () => {
             We Are Most Secure And Safest Platform For Crypto Trade.
             Our Convience Fee is Lowest Among just @0.58%
           </Text>
-          <VStack>
+          {/* <VStack>
             <Avatar boxSize={"28"} mt={["4", "0"]} src={userImg}/>
             <Text>Our Founder</Text>
-          </VStack>
+          </VStack> */}
         </VStack>
       </Stack>
     </Box>
